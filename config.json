@@ -1,0 +1,17 @@
+{
+  "seed": 13,
+  "classes": 6,
+  "device": "cpu",
+  "epochs": 100,
+  "patience": 15,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "variant": "full",
+  "width": 64,
+  "clip_threshold": 4,
+  "temperature": 1,
+  "prototype_temperature": 0.1,
+  "prototype_weight": 0.1,
+  "missing_rate": 0.3
+}
